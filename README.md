@@ -1,3 +1,13 @@
+<p align="center">
+
+  <img src="https://img.shields.io/badge/Language-C-blue.svg" alt="Language">
+  <img src="https://img.shields.io/badge/Platform-Windows-green.svg" alt="Platform">
+  <img src="https://img.shields.io/badge/Status-Working-brightgreen.svg" alt="Status">
+  <img src="https://img.shields.io/badge/Project-Wordle%20Solver-orange.svg" alt="Project">
+  <img src="https://img.shields.io/badge/License-Academic-lightgrey.svg" alt="License">
+
+</p>
+
 # 🎮 Wordle Game & Solveur — ALGO3 L2 ISIL
 
 Projet réalisé dans le cadre du module **ALGO3 (Langage C)** — Département Informatique, USTHB.  
