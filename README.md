@@ -50,24 +50,35 @@ Cette stratégie est simple, déterministe et adaptée au niveau du module ALGO3
 ## 📁 Structure du projet
 
 ```
-Wordle-Solver/
+WORDLE SOLVER
 │
-├── src/
-│   ├── game.c
-│   ├── game.h
-│   ├── solver.c
-│   ├── solver.h
-│   ├── wordlist.c
-│   ├── wordlist.h
-│   ├── main_game.c
-│   └── main_solver.c
-│
-├── dict/
+├── dict
 │   └── words.txt
 │
+├── docs
+│   └── screenshots
+│       ├── solver_test.png
+│       └── wordle_game.png
+│   └── Rapport_Wordle_Algo3.pdf
+│
+├── src
+│   ├── game.c
+│   ├── game.h
+│   ├── main_game.c
+│   ├── main_solver.c
+│   ├── solver.c
+│   ├── solver.h
+│   ├── test_wordlist.c
+│   ├── wordlist.c
+│   └── wordlist.h
+│
 ├── build.bat
-├── README.md
-└── Rapport_Wordle.pdf / Rapport_Wordle.docx
+├── README_Wordle_Projet.md
+│
+├── wordle_game.exe
+├── wordle_solver.exe
+└── wordlist_test.exe
+
 ```
 
 ---
