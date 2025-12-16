@@ -136,8 +136,9 @@ Le rapport fourni comprend :
 ---
 
 ## 👨‍💻 Auteur
-**Mohammed Amine Abderraouf Ali**  
-** Mostefa Mohamed Hocine**
+**Mohammed Amine Abderraouf Ali
+Mostefa Mohamed Hocine**  
+
 L2 ISIL — USTHB  
 Module : ALGO3
 
